@@ -1,0 +1,3 @@
+export const USER_UPDATE = 'USER_UPDATE';
+export const USER_FRIEND_LIST = 'USER_FRIEND_LIST';
+export const SOCKET_UPDATE = 'SOCKET_UPDATE';

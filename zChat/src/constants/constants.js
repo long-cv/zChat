@@ -1,0 +1,11 @@
+export const HOST = 'http://192.168.1.6';
+export const PORT = 3000;
+export const AVATAR_FOLDER = `${HOST}:${PORT}/avatar/`;
+export const USER_INFO = `${HOST}:${PORT}/user/info`;
+export const USER_SIGNUP = `${HOST}:${PORT}/user/signup`;
+export const USER_SIGNIN = `${HOST}:${PORT}/user/signin`;
+export const USER_UPDATE = `${HOST}:${PORT}/user/update`;
+export const USER_AVATAR = `${HOST}:${PORT}/user/avatar`;
+export const USER_USER_LIST = `${HOST}:${PORT}/user/userlist`;
+export const MESSAGE_GET_CONVERSATION = `${HOST}:${PORT}/message/conversation`;
+export const MESSAGE_GET_CONVERSATION_LIST = `${HOST}:${PORT}/message/conversationlist`;

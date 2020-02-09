@@ -18,5 +18,4 @@
 	+ create collections: user, message, conversation.
 4. Run server:
 - cd to server folder and call: npm start.
-
-![IMG_0002](https://user-images.githubusercontent.com/58189768/74097541-913df100-4b3f-11ea-84f8-496e513b4fe2.PNG)
+5. Images.

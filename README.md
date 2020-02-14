@@ -12,8 +12,9 @@
 - Show list of user.
 - Show list of conversation of each user.
 3. Install:
+- Install Node.js
 - cd to project folder and call: npm install
-- install mongodb:
+- Install mongodb and then:
 	+ create database named zChatDB.
 	+ create collections: user, message, conversation.
 4. Run server:

@@ -1,5 +1,5 @@
 # zChat
-1. An chatting app sample.
+1. A chatting app sample.
 - Using react native for client app and nodejs for server.
 - Using MongoDB to store app data at server.
 2. App features:
